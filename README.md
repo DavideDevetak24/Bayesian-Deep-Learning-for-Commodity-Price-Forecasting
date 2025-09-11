@@ -11,7 +11,7 @@ of this code and associated documentation files (the "Code"), to use, copy,
 modify, and redistribute the Code for **non-commercial, academic, or research purposes**, 
 provided that the following conditions are met:
 
-1. **Attribution** — You must give appropriate credit to the original authors, provide a link to the original paper, and indicate if changes were made.
+1. **Attribution** — You must give appropriate credit to the original authors, provide a citation to the original paper, and indicate if changes were made.
 2. **NonCommercial** — You may not use the Code for commercial purposes.
 
 This license is intended to facilitate academic collaboration, reproduction of experiments,
